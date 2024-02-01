@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/nico-ortiz/faq-accordion)
-- Live Site URL: [Link](#)
+- Live Site URL: [Link](https://nico-ortiz.github.io/faq-accordion/)
 
 ## My process
 
